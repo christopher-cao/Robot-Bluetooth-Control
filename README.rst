@@ -1,3 +1,7 @@
+Final code can be found in the file pyHookCodeFinal.py
+
+A keystroke recorder made in Python used to send strings to our robot through Bluetooth. Uses pyhook to record keystrokes and pyserial for Bluetooth connectivity. Records user's keystrokes for a certain period of time, records the keystrokes to a csv, then reads the csv in order to re-enact the keystrokes. Libraries used include Pyhook and Pyserial.
+
 =================================
  pySerial  |build-status| |docs|
 =================================
